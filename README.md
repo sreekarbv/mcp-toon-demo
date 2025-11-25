@@ -10,6 +10,8 @@ go build -o client .
 
 ## Example RUN
 ./clinet
+
+
 Enter your question:
 fetch me number users from India
 JSON Payload length  59589
